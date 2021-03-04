@@ -1,0 +1,2 @@
+# docker-wheezy-java8-nginx-proxy
+A docker image with wheezy and java 8 with nginx doing a reverse proxy from port 80 to 8080
